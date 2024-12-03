@@ -8,8 +8,8 @@ pip3 install requirements.txt
 python3 main.py
 ```
 
--results will be saved to file.<br />
--download output_video.mp4 to view most recent result uploaded (conf>0.6).
+-Results will be saved to file.<br />
+-Download output_video.mp4 to view most recent result uploaded (conf>0.6).
 
 
 # Work and approach:
